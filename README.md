@@ -1,9 +1,6 @@
 ## Exchange App
 
-
-
 https://github.com/user-attachments/assets/5686b181-4b7c-4b15-a93c-4321fffcfcd6
-
 
 
 ## Como rodar
